@@ -19,12 +19,12 @@ I have been provided with csv dataset to perform and in depth exploratory data a
 
 
 
-
-
-
-TODO
-
-
 # HOW TO RUN
+-   Launch anaconda and open jupiter notebooks
+-   Navigate to the folder on the local machine containing the weight_class_data.csv
+-   Open data_science_case_study.ipynb notebook
+-   Upload the weight_class_data.csv into your jupiter notebook.
+-   Run import the above libraries and run all the whole  
+
 
 
